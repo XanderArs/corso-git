@@ -4,3 +4,6 @@ new line from dev
 from forked repo
 
 really fork
+
+alias graph='git log --all --decorate --oneline --graph'
+
